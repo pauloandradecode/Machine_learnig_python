@@ -1,1 +1,1 @@
-# Maching_learnig_python
+# Machine_learnig_python
